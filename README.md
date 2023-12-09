@@ -1,3 +1,3 @@
-## H2 It's my first project
+## It's my first project
 --
-*In this repo I will push my portfolio*
+**In this repo I will push my portfolio**
